@@ -1,1 +1,1 @@
-console.log("Wiz Wiz Wiz: can't believe this works.");
+console.error("Wiz Wiz Wiz: can't believe this works.");
